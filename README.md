@@ -30,8 +30,8 @@ Welcome to my tranquil corner of the code universe! Here, we find balance not on
 
 🧘‍♀️ Let's strike a balance between code and relaxation. Feel free to reach out for code discussions or yoga tips. I'm just a message away.
 
-- [![LinkedIn](https://media.licdn.com/dms/image/D4D03AQGSRRuN0SE…eta&t=EUrcNirV6oBlE0HMqPV-1IinLMgmHXUjTDuzuDFTkjY)](https://www.linkedin.com/in/cynthia-tonui-977b1977/) 
-- [![Twitter](https://twitter.com/Thecodingyogi44/photo)](https://twitter.com/Thecodingyogi44)
-- **Blog site:** [Read my blogposts](https://medium.com/@cynthiatonui)
+- [Let's connect on LinkedIn](https://www.linkedin.com/in/cynthia-tonui-977b1977/) 
+- [Follow me on Twitter](https://twitter.com/Thecodingyogi44)
+- [Read my blogposts](https://medium.com/@cynthiatonui)
 
 Now, take a deep breath, and let's code with a smile! 😊🌟
